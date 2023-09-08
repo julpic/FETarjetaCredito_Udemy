@@ -1,4 +1,7 @@
-# FETarjetaCreditoUdemy
+# FETarjetaCreditoUdemyE
+
+Proyecto CRUD en Angular y .NET Core.
+Utilizacion de Angular CLI para generacion de componentes. Utilizacion de Bootstrap, UI Gradient y Google Font.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
